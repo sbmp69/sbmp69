@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Meet%20Ajudia&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%26%20Mobile%20Developer%20%7C%20Mumbai%2C%20India&descSize=18&descAlignY=58" width="100%" alt="banner" />
+<img src="banner.svg" width="100%" alt="Meet Ajudia - Full-Stack & Mobile Developer" />
 
 <div align="center">
 
@@ -71,8 +71,6 @@ const meet = {
 
 </div>
 
-> ✏️ Remove any badge you don't actually use. Browse more at [shields.io](https://shields.io) or [simpleicons.org](https://simpleicons.org).
-
 ---
 
 ## 🚀 Featured Projects
@@ -112,44 +110,15 @@ const meet = {
   </tr>
 </table>
 
-> ✏️ I wrote the project descriptions from the repo names. Edit them to match what each project really does.
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sbmp69&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fd1be&icon_color=7fd1be&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbmp69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fd1be&langs_count=8" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=sbmp69&theme=tokyonight&hide_border=true&background=0d1117&ring=7fd1be&fire=7fd1be&currStreakLabel=7fd1be" />
 
 </div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sbmp69&bg_color=0d1117&color=7fd1be&line=7fd1be&point=ffffff&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sbmp69/sbmp69/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-</div>
-
-> ✏️ The snake needs a one-time GitHub Action (see setup notes below). Delete this section if you don't want it.
 
 ---
 
@@ -167,37 +136,3 @@ I'm open to collaborations, internships, and new ideas. Don't be shy, say hi! �
 *"First, solve the problem. Then, write the code."* 💡
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer" />
-
-<!--
-=========================== SETUP NOTES ===========================
-1. Create a PUBLIC repo named exactly: sbmp69  (same as your username)
-2. Add this file to it as README.md, so it shows on your profile.
-3. (Optional) Snake animation: create .github/workflows/snake.yml with:
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-permissions:
-  contents: write
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-   Then run it once from the Actions tab.
-===================================================================
--->
