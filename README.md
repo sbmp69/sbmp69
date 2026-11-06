@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="banner.svg" width="100%" alt="Meet Ajudia - Full-Stack & Mobile Developer" />
+<img src="banner.svg" width="100%" alt="Meet Ajudia - SaaS Developer" />
 
 <div align="center">
 
