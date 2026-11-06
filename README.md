@@ -7,8 +7,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sbmp69&label=Profile%20Views&color=7fd1be&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/sbmp69?label=Followers&style=for-the-badge&color=7fd1be&logo=github)
 
 <a href="https://www.linkedin.com/in/meet-ajudia-1769602a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ajudiameet11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -112,13 +110,6 @@ const meet = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sbmp69&theme=tokyonight&hide_border=true&background=0d1117&ring=7fd1be&fire=7fd1be&currStreakLabel=7fd1be" />
-
-</div>
 
 ---
 
