@@ -22,10 +22,10 @@ const meet = {
   name: "Meet Ajudia",
   handle: "sbmp69",
   location: "Mumbai, India 📍",
-  currentlyBuilding: ["FitForge", "ReviewFlow", "Communica"],
+  currentlyBuilding: ["FitForge", "ReviewFlow", "Mira"],
   learning: ["System Design", "Advanced TypeScript", "Cloud & DevOps"],
   funFact: "I debug with coffee ☕ and ship with confidence 🚢",
-  openTo: ["Collaborations", "Internships", "Open-source", "Cool ideas"],
+  openTo: ["Collaborations", "Open-source", "Cool ideas"],
 };
 ```
 
@@ -89,8 +89,8 @@ const meet = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤝 <a href="https://github.com/sbmp69/communica-ngo-community-app">Communica</a></h3>
-      <p>A community platform that connects NGOs with volunteers and supporters.</p>
+      <h3>🤝 <a href="https://github.com/sbmp69/mira">Mira</a></h3>
+      <p>AI Companion for day to day discussions</p>
       <img src="https://img.shields.io/badge/Community-Impact-7fd1be?style=flat-square" />
     </td>
     <td width="50%" valign="top">
